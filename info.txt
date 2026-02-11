@@ -1,1 +1,5 @@
 Welcome to Class
+This is new topic
+we are learing about git 
+this is pratice session
+
